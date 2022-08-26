@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **singhdepu566@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/Depuj/Downloads/Deependra%20Singh.pdf](file:///C:/Users/Depuj/Downloads/Deependra%20Singh.pdf)
+- 
 
 - ⚡ Fun fact **I like to Play PC games**
 
