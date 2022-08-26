@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
 <h3 align="center">Still on the way to Emerge to be a Front End Developer.</h3>
 
