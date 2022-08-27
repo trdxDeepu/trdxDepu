@@ -18,9 +18,7 @@
 
 - 📫 How to reach me **singhdepu566@gmail.com**
 
-- 
-
-- ⚡ Fun fact **I like to Play PC games**
+-⚡ Fun fact **I like to Play PC games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
