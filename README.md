@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
 <h3 align="center">Still on the way to Emerge to be a Front End Developer.</h3>
 
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>                                          <a href="https://app.daily.dev/trdx_lucifer"><img src="https://api.daily.dev/devcards/74c8bcdc6f854e79adf9deb3cbe6240c.png?r=3o5" width="400" alt="TrdxChamber's Dev Card"/></a>
+
 
 
 
