@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
 <h3 align="center">Still on the way to Emerge to be a Front End Developer.</h3>
 
+</div>
 
+### Hey😃, you're counted  in visitors list. 
+
+  <img src="https://profile-counter.glitch.me/trdxlucifer/count.svg" />
+</div>
 
 
 
