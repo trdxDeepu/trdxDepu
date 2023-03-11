@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cSghejGbH5U5oyqcTs74jyymlerKWa8b/view?usp=share_link](https://drive.google.com/file/d/1cSghejGbH5U5oyqcTs74jyymlerKWa8b/view?usp=share_link)
 
-- ⚡ Fun fact **I think i need to be consisent**
+- ⚡ Fun fact **I Can Play Valorant .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
