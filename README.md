@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1cSghejGbH5U5oyqcTs74jyymlerKWa8b/view?usp=share_link](https://drive.google.com/file/d/1cSghejGbH5U5oyqcTs74jyymlerKWa8b/view?usp=share_link)
 
-- ⚡ Fun fact **I Can Play Valorant .**
+- ⚡ Fun fact **I think i need to be consisent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,6 +34,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trdxlucifer&show_icons=true&locale=en" alt="trdxlucifer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trdxlucifer&" alt="trdxlucifer" /></p>
+
 
 
 Here are some [ 🦜 parrots] : -->
