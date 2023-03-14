@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
 <h3 align="center">Still on the way to Emerge to be a Front End Developer.</h3>
+<h6 align="center">"When you look at people who are successful, you will find that they aren't the people who are motivated, but have consistency in their motivation."</h6>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trdxlucifer&label=Profile%20views&color=0e75b6&style=flat" alt="trdxlucifer" /> </p>
 
