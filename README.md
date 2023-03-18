@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **Singhdepu566@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cSghejGbH5U5oyqcTs74jyymlerKWa8b/view?usp=share_link](https://drive.google.com/file/d/1cSghejGbH5U5oyqcTs74jyymlerKWa8b/view?usp=share_link)
+- 📄 Know about my experiences my resume [https://drive.google.com/file/d/1cSghejGbH5U5oyqcTs74jyymlerKWa8b/view?usp=share_link](https://drive.google.com/file/d/1M5185E80YGf_uGRdCEtKsjdeUen5mCQZ/view?usp=share_link)](https://drive.google.com/file/d/1cSghejGbH5U5oyqcTs74jyymlerKWa8b/view?usp=share_link)
 
 - ⚡ Fun fact **I think i need to be consisent**
 
