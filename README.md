@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
-<h3 align="center">Still on the way to Emerge to be a Front End Developer.</h3>
+<h3 align="center">Front End Developer.</h3>
 <h6 align="center">"When you look at people who are successful, you will find that they aren't the people who are motivated, but have consistency in their motivation."</h6>
 
 
