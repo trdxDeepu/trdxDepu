@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Real Estate App**
 
-- 🌱 I’m currently learning **ReactJ,ThreeJS**
+- 🌱 I’m currently learning **ReactJ**
 
 - 👯 I’m looking to collaborate on **Web development**
 
