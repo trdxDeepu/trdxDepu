@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences my resume https://drive.google.com/file/d/1M5185E80YGf_uGRdCEtKsjdeUen5mCQZ/view?usp=share_link
 
-- ⚡ Fun fact **I think i need to be consisent**
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
