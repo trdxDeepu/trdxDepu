@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Linkedin_clone.<br>🌱 I’m currently learning Hooks.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about Html , CSS , JS , ReactJS , Firebase.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume https://drive.google.com/file/d/1M5185E80YGf_uGRdCEtKsjdeUen5mCQZ/view?usp=share_link
+🔭 I’m currently working on Linkedin Clone.<br>🌱 I’m currently learning Hooks.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about Html , CSS , JS , ReactJS , Firebase.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume https://drive.google.com/file/d/1M5185E80YGf_uGRdCEtKsjdeUen5mCQZ/view?usp=share_link
 
 
 ## 🌐 Socials:
