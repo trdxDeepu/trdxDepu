@@ -7,6 +7,8 @@
 🔭 I’m currently working on Linkedin Clone.<br>🌱 I’m currently learning Hooks.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about Html , CSS , JS , ReactJS , Firebase.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume 
 ](https://drive.google.com/file/d/10JFp99yH_98I5jOoSomuwIlFMIt_59lb/view?usp=share_link)
 
+[![](https://visitcount.itsvg.in/api?id=trdxlucifer&label=What%20you%20seek%20is%20seeking%20you&pretty=true)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_mdeepusingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deependra-singh-14a33720a/) 
 
@@ -27,6 +29,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=trdxlucifer&icon=7&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
