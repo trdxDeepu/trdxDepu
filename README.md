@@ -1,10 +1,10 @@
-<h3> [![](https://visitcount.itsvg.in/api?id=trdxlucifer&label=What%20you%20seek%20is%20seeking%20you&pretty=true)](https://visitcount.itsvg.in)</h3>
+
 
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
 <h3 align="center">Front End Developer.</h3>
 <h6 align="center">"When you look at people who are successful, you will find that they aren't the people who are motivated, but have consistency in their motivation."</h6>
 
-
+<h3> [![](https://visitcount.itsvg.in/api?id=trdxlucifer&label=What%20you%20seek%20is%20seeking%20you&pretty=true)](https://visitcount.itsvg.in)</h3>
 # 💫 About Me:
 🔭 I’m currently working on Linkedin Clone.<br>🌱 I’m currently learning Hooks.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about Html , CSS , JS , ReactJS , Firebase.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume 
 ](https://drive.google.com/file/d/10JFp99yH_98I5jOoSomuwIlFMIt_59lb/view?usp=share_link)
