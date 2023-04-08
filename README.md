@@ -4,8 +4,8 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Linkedin Clone.<br>🌱 I’m currently learning Hooks.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about Html , CSS , JS , ReactJS , Firebase.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume https://drive.google.com/file/d/1M5185E80YGf_uGRdCEtKsjdeUen5mCQZ/view?usp=share_link
-
+🔭 I’m currently working on Linkedin Clone.<br>🌱 I’m currently learning Hooks.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about Html , CSS , JS , ReactJS , Firebase.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume 
+](https://drive.google.com/file/d/10JFp99yH_98I5jOoSomuwIlFMIt_59lb/view?usp=share_link)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_mdeepusingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deependra-singh-14a33720a/) 
