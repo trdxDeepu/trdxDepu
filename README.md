@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Deependra Singh</h1>
-<h3 align="center">Front End Developer.</h3>
+<h3 align="center">Front End Developer </h3>
 <h6 align="center">"When you look at people who are successful, you will find that they aren't the people who are motivated, but have consistency in their motivation."</h6>
 
 [![](https://visitcount.itsvg.in/api?id=trdxlucifer&label=What%20you%20seek%20is%20seeking%20you&pretty=true)](https://visitcount.itsvg.in)
