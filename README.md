@@ -6,7 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=trdxlucifer&label=What%20you%20seek%20is%20seeking%20you&pretty=true)](https://visitcount.itsvg.in)
 # 💫 About Me:
-🔭 I’m currently working on React.<br>🌱 I’m currently learning Hooks.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about Html , CSS , JS , ReactJS , Firebase.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume 
+🔭 I’m currently working on React.<br>🌱 I’m currently learning Typescript.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about Html , CSS , JS , ReactJS , Firebase.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume 
 ](https://drive.google.com/file/d/10JFp99yH_98I5jOoSomuwIlFMIt_59lb/view?usp=share_link)
 
 
