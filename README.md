@@ -1,7 +1,5 @@
 
-<h1>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
-</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3B75F7&background=405CFF00&center=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Deependra+Singh.;I'm+Front+End+Developer" alt="Typing SVG"  style="text-align:center"/></a>
 
 <h3 align="center">Front End Developer </h3>
 <h6 align="center">"When you look at people who are successful, you will find that they aren't the people who are motivated, but have consistency in their motivation."</h6>
