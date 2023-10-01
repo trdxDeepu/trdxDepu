@@ -1,3 +1,5 @@
+[![An image of @trdxlucifer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trdxlucifer)](https://holopin.io/@trdxlucifer)
+
 # 💫 Hi I'm Deependra Singh
 🔭 I’m currently working on React and Redux<br>🌱 I’m currently learning Redux, Typescript.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about HTML , CSS , JS , ReactJS, C++ , Firebase, Python.<br>📫 How to reach me Singhdepu566@gmail.com.<br>📄 Know about my experiences my resume ]https://drive.google.com/file/d/1BoZtEiQqKAnyi7CsIHD3mGXclts0lBLa/view?usp=sharing<br><br>🌐 Socials:
 
