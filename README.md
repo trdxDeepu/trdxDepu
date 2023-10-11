@@ -1,4 +1,4 @@
-[![An image of @trdxlucifer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/trdxlucifer)](https://holopin.io/@trdxlucifer)
+[![An image of @trdxlucifer's Holopin badges, which is a link to view their full Holopin profile](holopin.io/@trdxlucifer)](holopin.io/@trdxlucifer)
 <div align="center">
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="left"/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940& lines=I'm+Deependra Singh+and+Welcome+to+my+Profile!" alt="Hey, I'm Deependra singh and Welcome to my ProfilE! animated typed out" width="90%" align="middle"/>
