@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940& lines=I'm+Deependra Singh+and+Welcome+to+my+Profile!" alt="Hey, I'm Deependra singh and Welcome to my ProfilE! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
-🔭 I’m currently working on React and Redux<br>🌱 I’m currently learning Redux, Typescript.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about HTML , CSS , JS , ReactJS, C++ , Firebase, Python.<br>📫 How to reach me Singhdepu566@gmail.com.<br>https://drive.google.com/file/d/1BoZtEiQqKAnyi7CsIHD3mGXclts0lBLa/view?usp=sharing<br><br>🌐 Socials:
+🔭 I’m currently working on React and Redux<br>🌱 I’m currently learning Redux, Typescript.<br>👯 I’m looking to collaborate on Web development.<br>🤝 I’m looking for help with Open Source.<br>💬 Ask me about HTML , CSS , JS , ReactJS, C++ , Firebase, Python.<br>📫 How to reach me Singhdepu566@gmail.com.<br> [https://drive.google.com/file/d/1BoZtEiQqKAnyi7CsIHD3mGXclts0lBLa/view?usp=sharing](https://drive.google.com/file/d/16B4tUT-CWwFLSycQscTuAeq_y941TIdc/view?usp=share_link)<br><br>🌐 Socials:
 
 
 ## 🌐 Socials:
