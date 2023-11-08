@@ -26,4 +26,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=trdxlucifer&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/webcrumbs-community/webcrumbs">
+  <img
+    src="https://github.com/webcrumbs-community/webcrumbs/blob/main/src/img/contributor-badge.png"
+    alt="WebCrumbs Contributor"
+    width="200px"
+  />
+</a>
