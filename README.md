@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=940& lines=I'm+Deependra Singh+and+Welcome+to+my+Profile!" alt="Hey, I'm Deependra singh and Welcome to my ProfilE! animated typed out" width="90%" align="middle"/>
   <img src="./assets/animated-flame-01.gif" width="1.75%" align="right"/>
 </div>
-<h2 align="right">Hi 👋! My name is .Deependra Singh and I'm a  Front End Developer</h2>
+
 
 ###
 
@@ -59,9 +59,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
 ###
 <a href="https://github.com/webcrumbs-community/webcrumbs">
